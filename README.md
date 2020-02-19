@@ -35,7 +35,7 @@ if erverything is fine, your serial output should look like this:
 ....... connected
 UPD Server is up and running
 nc yourDomain.dyndns.org 5444 -u 
-Please use the following start code, to wake up the VPN Server: 9792
+Please use the following start code, to wake up the VPN Server: 5399
 E-Mail send
 AP connection established, listening on 192.168.178.4:5444
 ``` 
