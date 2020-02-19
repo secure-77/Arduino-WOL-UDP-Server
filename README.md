@@ -24,6 +24,7 @@ https://github.com/dancol90/ESP8266Ping
 - dyndns or static ip and port forwarding for external access 
 
 ##Usage
+
 - change the config.h file to your settings.
 - upload the sketch to your board
 - power on the board
@@ -52,6 +53,7 @@ AP connection established, listening on 192.168.178.4:5444
 
 
 ##notes
+
 - for email debugging you can turn on the follwing in the ``libraries\esp8266-sendemail-master\sendemail.h`` file.
 ```
 #define DEBUG_EMAIL_PORT Serial
