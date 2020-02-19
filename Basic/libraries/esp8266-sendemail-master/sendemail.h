@@ -1,8 +1,8 @@
 #ifndef __SENDEMAIL_H
 #define __SENDEMAIL_H
 
-//#define DEBUG_EMAIL_PORT
-#define DEBUG_EMAIL_PORT Serial
+// uncomment to enable E-Mail debug output to serial
+//#define DEBUG_EMAIL_PORT Serial
 
 #include <WiFiClient.h>
 #include <WiFiClientSecure.h>

@@ -1,3 +1,4 @@
+// config file, make sure to include the correct file to your basic.ino
 
 // wifi settings
 #define SSID "Wifi SSID"
