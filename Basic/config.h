@@ -10,6 +10,7 @@ IPAddress subnet(255,255,255,0);
 // target domain, local WOL IP, MAC and broadcast address
 const char* dynDNS = "yourDomain.dyndns.org";
 IPAddress serverIP (192, 168, 1, 10);
+// example for Mac: 2C:FD:A1:B8:9B:2D
 byte mac[] = {0x2C, 0xFD, 0xA1, 0xB8, 0x9B, 0x2D};
 byte bc[] = {192, 168, 1, 255};
 
