@@ -68,6 +68,8 @@ to
 ```
 _min_time = 0;
 ```
+- the upd server part is from http://stefanfrings.de/esp8266/
 
+- the wol code part is from https://forum.arduino.cc/index.php?topic=111343.0
 
 
