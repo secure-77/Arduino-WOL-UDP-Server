@@ -10,7 +10,7 @@ Project: https://secure77.de/arduino-als-wol-server/
 
 - self startup on power
 - generating pin and send it via email
-- send WOL signals after correct authentification
+- send WOL signals after correct authentication
 - accessible by mobile with termux and ncat
 - check target device status via ping
 - little bruteforce protection
